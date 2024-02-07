@@ -1,0 +1,14 @@
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\bin\Debug\net8.0\Clase1ITLA.exe
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\bin\Debug\net8.0\Clase1ITLA.deps.json
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\bin\Debug\net8.0\Clase1ITLA.runtimeconfig.json
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\bin\Debug\net8.0\Clase1ITLA.dll
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\bin\Debug\net8.0\Clase1ITLA.pdb
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\Clase1ITLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\Clase1ITLA.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\Clase1ITLA.AssemblyInfo.cs
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\Clase1ITLA.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\Clase1ITLA.dll
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\refint\Clase1ITLA.dll
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\Clase1ITLA.pdb
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\Clase1ITLA.genruntimeconfig.cache
+C:\Users\Kevin\Documents\Programacion\Disparates\C SHARP\Clase1ITLA\obj\Debug\net8.0\ref\Clase1ITLA.dll
